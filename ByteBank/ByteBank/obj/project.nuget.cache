@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ue0283vENK+m9MYVxZiNEjbdQKPE3Lq1xOLcd2+jjINkp/jp+iMIEeqsT1VD+ZB0kbQnkpvOuabcnPmEnQJ9JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\Estudos Programação\\Sharp Coders\\Projetos\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
