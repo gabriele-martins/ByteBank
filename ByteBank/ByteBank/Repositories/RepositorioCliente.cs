@@ -15,7 +15,7 @@ namespace ByteBank.Repositories
                 clientes = new List<Cliente>();
                 return false;
             }
-            if (clientes.Exists(cliente => cliente.Cpf == cpf)) return true;
+            else if (clientes.Exists(cliente => cliente.Cpf == cpf)) return true;
             else return false;
         }
 

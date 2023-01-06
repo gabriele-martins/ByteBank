@@ -7,7 +7,7 @@ namespace ByteBank.Views
     {
         public static void AplicarTituloConsole()
         {
-            Console.Title = "Byte Bank 1";
+            Console.Title = "Byte Bank";
         }
 
         public static void AplicarVermelhoErro(string message)
